@@ -5,6 +5,8 @@ import models
 from routers import influencer, brand, wallet, purchase, post
 from dotenv import load_dotenv
 from routers import instagram_oauth
+from fastapi.staticfiles import StaticFiles
+app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")
 
 load_dotenv()
 
