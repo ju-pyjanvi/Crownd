@@ -1,5 +1,5 @@
-##👑 CROWND
-#Where Every Purchase Is Your Crowning Moment
+👑 CROWND
+Where Every Purchase Is Your Crowning Moment
 
 Influencer Wallets    Verified UGC    Purchase-Linked Cashback    Brand Campaign Tiers    In Progress
 
