@@ -8,7 +8,7 @@ Real Buyers • Real Posts • Instagram-Verified Cashback • Crownd Score Matc
 TRY IT OUT — frontend/index.html (open locally, see Getting Started below)
 
 Backend API — (https://crownd.onrender.com)
-
+Frontend - https://ju-pyjanvi.github.io/Crownd3/
 Repository — https://github.com/ju-pyjanvi/Crownd
 
 📌 System Overview
