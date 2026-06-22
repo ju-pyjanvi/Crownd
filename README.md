@@ -15,6 +15,9 @@
 
 **🔴 LIVE DEMO** — [crownd.onrender.com](https://crownd.onrender.com) &nbsp;|&nbsp; **🎨 FRONTEND** — [ju-pyjanvi.github.io/Crownd3](https://ju-pyjanvi.github.io/Crownd3/) &nbsp;|&nbsp; **📂 REPO** — [github.com/ju-pyjanvi/Crownd](https://github.com/ju-pyjanvi/Crownd)
 
+
+**PPT** - https://drive.google.com/file/d/1f2fkKyGfWk420u_qOf79_BoVtlaq075y/view?usp=sharing
+
 ---
 
 ## 📌 What Is Crownd?
